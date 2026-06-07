@@ -19,24 +19,6 @@ A responsive YouTube homepage clone built using HTML and CSS.
 - Flexbox
 - CSS Grid
 
-## Project Structure
-
-```text
-YouTube_clone/
-│
-├── youtube.html
-│
-├── styles/
-│   ├── general.css
-│   ├── header.css
-│   ├── sidebar.css
-│   └── video.css
-│
-├── icons/
-├── thumbnails/
-└── channel_picture/
-
-
 ## Preview
 
 This project recreates the appearance of the YouTube homepage for learning and practice purposes.

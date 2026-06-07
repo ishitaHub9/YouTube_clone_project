@@ -45,6 +45,3 @@ This project recreates the appearance of the YouTube homepage for learning and p
 
 Ishita Samanta
 
-## Note
-
-This project is for educational purposes only and is not affiliated with YouTube.
